@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(144, 0, 77);
+}
+h1{
+    color:rgb(139, 139, 125);
+}
+p{
+    color:rgb(139,139,125);
+}
+h3{
+    color:rgb(139, 139, 125);
+}
+h4{
+    color:rgb(139, 139, 125);
+}
+a{
+    color: rgb(139, 139, 125);
+    font-family: sans-serif;
+    font-style: oblique;
+}
